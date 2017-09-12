@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayLibrary", "ArrayLibrary\ArrayLibrary.csproj", "{1CF52FFB-0E1C-4B5F-A553-21D4BCDC841E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestArrayLibrary", "TestArrayLibrary\TestArrayLibrary.csproj", "{590400B9-F149-4304-BA26-D6BC4408506F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1CF52FFB-0E1C-4B5F-A553-21D4BCDC841E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CF52FFB-0E1C-4B5F-A553-21D4BCDC841E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CF52FFB-0E1C-4B5F-A553-21D4BCDC841E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{590400B9-F149-4304-BA26-D6BC4408506F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590400B9-F149-4304-BA26-D6BC4408506F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590400B9-F149-4304-BA26-D6BC4408506F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590400B9-F149-4304-BA26-D6BC4408506F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
